@@ -6,7 +6,6 @@
 I'm a student of North South University(NSU). Now, I am completing my undergraduate from ECE(major of CSE) department.
 
 Skills: C / C++ / Java 
-![image](https://github.com/shamim-khan0210/shamim-khan0210/assets/132485646/6b7e5586-c9d4-4700-861d-85d6053bfeff)
 
 
 - 🔭 I’m currently working on this page. 
