@@ -1,5 +1,5 @@
-![I'm still learning](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIM5joIErzFl6et1_d2buGrUvb2YbblLBHQ&usqp=CAU)
-### Assalamualaikum/Hi there 👋, my name is Shamim Khan(Hasibul Hasan)
+![I'm still learning](https://camo.githubusercontent.com/2f94daa30365b106c5496974db607f377f3f1a07ce90564b67a076dce6dc785d/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30342f31392f32362f39372f3336305f465f3431393236393738325f394c73503354516e644d566e5a326a335a685450684d6a6171517046417468392e6a7067)
+### Hi there 👋, my name is Shamim Khan(Hasibul Hasan)
 #### I'm still learning
 
 
@@ -11,7 +11,7 @@ Skills: C / C++ / Java
 - 🌱 I’m currently learning HTML, CSS, Python and also new things 
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: hasibul.hasan0210@gmail.com 
-- ⚡ Fun fact: I never share my learning with anyone  😉
+- ⚡ Fun fact: I never share my learning with anyone 😉 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shamim-khan0210)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mdshamim.mdshamim.75248)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shamim_khan0210/)  
