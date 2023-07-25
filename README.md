@@ -11,7 +11,7 @@ Skills: C / C++ / Java
 - 🌱 I’m currently learning HTML, CSS, Python and also new things 
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: hasibul.hasan0210@gmail.com 
-- ⚡ Fun fact: I never share my learning with anyone  
+- ⚡ Fun fact: I never share my learning with anyone  😉
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shamim-khan0210)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mdshamim.mdshamim.75248)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shamim_khan0210/)  
