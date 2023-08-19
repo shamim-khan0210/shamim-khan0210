@@ -5,11 +5,11 @@
 
 I'm a student of North South University(NSU). Now, I am completing my undergraduate from ECE(major of CSE) department.
 
-Skills: C / C++ / Java 
+Skills: C / C++ / Java / HTML 
 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning HTML, CSS, Python and also new things 
+- 🌱 I’m currently learning PHP, SQL, CSS, Python and also new things 
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: hasibul.hasan0210@gmail.com 
 - ⚡ Fun fact: I never share my learning with anyone 😉 
