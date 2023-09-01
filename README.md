@@ -5,7 +5,7 @@
 
 I'm a student of North South University(NSU). Now, I am completing my undergraduate from ECE(major of CSE) department.
 
-Skills: C / C++ / Java / HTML 
+Skills: C / C++ / Java / HTML / CSS
 
 
 - 🔭 I’m currently working on this page. 
