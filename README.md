@@ -3,7 +3,7 @@
 #### I'm still learning
 
 
-I'm graduate from North South University(NSU). Now, I completed my undergraduate from ECE(major of CSE) department.
+I am a graduate of North South University (NSU), where I completed my undergraduate studies in Electrical and Computer Engineering (ECE), majoring in Computer Science and Engineering (CSE).
 
 Skills: C / C++ / Java / HTML / CSS / SQL /  Python / Django
 
