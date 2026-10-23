@@ -3,7 +3,7 @@
 #### I'm still learning
 
 
-I'm a student of North South University(NSU). Now, I am completing my undergraduate from ECE(major of CSE) department.
+I'm graduate from North South University(NSU). Now, I completed my undergraduate from ECE(major of CSE) department.
 
 Skills: C / C++ / Java / HTML / CSS / SQL /  Python / Django
 
